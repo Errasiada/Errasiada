@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Errasiada
+- 👋 Hi, I’m Noa Dionis
 - 👀 I’m interested in Art & Videogames
 - 🌱 I’m currently learning Game Development
 - 📫 How to reach me: errasiada@gmail.com
